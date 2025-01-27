@@ -6,7 +6,7 @@ const increment= () =>{
 } 
 
 const decrement = ()=>{
-    let value=parseInt(counter.innerText);
+    let value=parseInt(counter.innerText); 
     value=value-1;
     counter.innerText=value;
 }
