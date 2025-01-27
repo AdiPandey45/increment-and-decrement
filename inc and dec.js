@@ -11,3 +11,4 @@ const decrement = ()=>{
     counter.innerText=value;  
 }
   
+ 
