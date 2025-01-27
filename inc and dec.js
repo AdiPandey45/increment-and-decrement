@@ -8,6 +8,6 @@ const increment= () =>{
 const decrement = ()=>{
     let value=parseInt(counter.innerText);  
     value=value-1;
-    counter.innerText=value;
+    counter.innerText=value; 
 }
  
